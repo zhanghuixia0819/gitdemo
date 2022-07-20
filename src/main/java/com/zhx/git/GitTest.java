@@ -8,6 +8,6 @@ package com.zhx.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git!");
-        System.out.println("zhanghuixia");
+        System.out.println("zhanghuixia!");
     }
 }
