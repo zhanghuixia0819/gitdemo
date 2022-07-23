@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("dangzheng!");
         System.out.println("dangzhenglaji!");
         System.out.println("dangzhengwangba!");
+        System.out.println("love will guide you home!");
     }
 }
